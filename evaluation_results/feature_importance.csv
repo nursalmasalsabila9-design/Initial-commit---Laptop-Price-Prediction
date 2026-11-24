@@ -1,0 +1,21 @@
+Feature,Importance
+numeric__rating,0.6768524581536998
+categorical__storage_1 TB SSD,0.09602945462679353
+categorical__os_Mac OS,0.03721573835066345
+categorical__graphics_24 GB NVIDIA GeForce RTX 5090,0.022398760463842315
+"categorical__display_15.6 inches, 1920 x 1080 pixels",0.013263195693100195
+categorical__cores_14 Cores (10P + 4E),0.010666209142324369
+categorical__cores_12 Cores,0.009142247480462991
+categorical__graphics_Qualcomm Adreno GPU,0.008689844539307335
+categorical__ram_64 GB DDR5 RAM,0.005983340076039168
+categorical__ram_16 GB LPDDR5X RAM,0.005113825894589411
+"categorical__cores_16 Cores (6P + 8E + 2LP-E), 22 Threads",0.00489921634184031
+categorical__os_Windows 11 OS,0.004492633361758377
+categorical__processor_Qualcomm Snapdragon X Elite,0.004463952261809011
+categorical__graphics_8 GB NVIDIA GeForce RTX 5070,0.004211448498294422
+categorical__storage_512 GB SSD,0.003535012590164561
+"categorical__cores_Dual Core, 2 Threads",0.0030311645819180214
+categorical__ram_16 GB DDR5 RAM,0.0028311247324180593
+"categorical__cores_Hexa Core (2P + 4E), 8 Threads",0.0027151122080972673
+"categorical__cores_Quad Core, 8 Threads",0.002470495857968569
+"categorical__display_14 inches, 1920 x 1200 pixels",0.0023698536590912233
